@@ -500,6 +500,9 @@
      .quote-title h2{
          font-size:42px;
     }
+    .con-title h2{
+        margin-top: 70px;
+   }
      .ho-ev-link {
          width: 100%;
          padding-top: 20px;
