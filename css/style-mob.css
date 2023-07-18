@@ -435,6 +435,11 @@
     margin-top: 10px;
 }
 
+.Bor {
+    border-bottom: 1px solid #dcdbdb;
+    border-right: hidden;
+}
+
 }
 
 /*-------------------------------------------------------*/
