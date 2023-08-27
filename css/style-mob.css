@@ -264,6 +264,7 @@
      .new-con3{
     }
      .new-con4{
+
     }
 .ed-ban-tit {
     width: 100%;
@@ -301,8 +302,8 @@
     }
      .wed-logo a img {
          width: 200px;
-         
-         height: 70px;
+         height: 90px;
+         padding-top: 0px;
     }
      .wed-search-1 {
          width: 90%;
@@ -412,6 +413,12 @@
      .new-con h4{
         margin-top:35px;
     }
+    .new-con-4 img {
+        width: 300px !important;
+        height: 350px !important;
+        border-radius: 5px;
+        margin-left: -15px;
+    }
 .ed-ban-tit-31 {
     width: 100%;
     float: left;
@@ -443,6 +450,9 @@
 .news-container {
     left: 100;
     right: 100;
+}
+.ed-course-in-2{
+    margin-left: 150px;
 }
 
 }
